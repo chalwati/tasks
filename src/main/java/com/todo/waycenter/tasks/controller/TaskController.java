@@ -11,7 +11,7 @@ import java.net.URI;
 import java.util.List;
 import java.util.Optional;
 
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://angular-taskswaycenter-todo.herokuapp.com")
 @RestController
 public class TaskController {
 
